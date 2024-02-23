@@ -1,8 +1,20 @@
-# React + Vite
+# The Cabin Oasis
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Main project in Jonas Schmedtmann's Ultimate React Course.
 
-Currently, two official plugins are available:
+## Description
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+A web application for hotel employees, they can:
+
+- Create/Delete/Update bookings, same functionality as cabins room.
+- Update user.
+- Keep track of sales and other statistics via a dashboard.
+- Check on task to do in a day.
+
+## Usage
+
+Login information:
+
+> Username: allen@example.com
+> Password: haotorres123
+> _DISCLAIMER: PLEASE DO NOT DELETE ALL THE BOOKINGS OR THE CABINS OTHERWISE I HAVE TO UPLOAD IT AGAIN!_
