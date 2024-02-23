@@ -15,6 +15,7 @@ A web application for hotel employees, they can:
 
 Login information:
 
-> Username: allen@example.com
-> Password: haotorres123
-> _DISCLAIMER: PLEASE DO NOT DELETE ALL THE BOOKINGS OR THE CABINS OTHERWISE I HAVE TO UPLOAD IT AGAIN!_
+> **Username:** allen@example.com\
+> **Password:** haotorres123\
+**_DISCLAIMER: PLEASE DO NOT DELETE ALL THE BOOKINGS OR THE CABINS OTHERWISE I HAVE TO UPLOAD IT AGAIN!_**
+
